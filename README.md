@@ -9,7 +9,8 @@ A simple inventory management system written in Python.
 - Buy products
 - Sell products
 - Manage product inventory
-
+- Check low stock products
+- Exit program
 ## Programming Language
 Python
 
